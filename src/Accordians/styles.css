@@ -1,0 +1,11 @@
+.para{
+    height: 0px;
+    overflow: hidden;
+    transition: all 0.4s;
+}
+
+.show{
+    transition: all 0.4s;
+    height: 50px;
+    overflow: hidden;
+}
